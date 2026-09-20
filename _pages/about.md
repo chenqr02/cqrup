@@ -6,6 +6,7 @@ subtitle: Ph.D. student at USTC; independent investigator of everyday life.
 
 profile:
   align: right
+  image: bilibili-avatar.jpg
   image_circular: false
   more_info: >
     <p><strong>Ph.D. student</strong><br>University of Science and Technology of China</p>

@@ -1,0 +1,60 @@
+---
+layout: default
+---
+{% assign cv_feature_enabled = site.al_folio.features.cv.enabled | default: true %}
+
+{% if site.plugins contains 'al_folio_cv' and cv_feature_enabled %}
+  <style>
+    .cv-page-with-avatar {
+      position: relative;
+    }
+
+    .cv-page-with-avatar .post-header {
+      min-height: 120px;
+      padding-right: 132px;
+    }
+
+    .cv-page-avatar {
+      position: absolute;
+      top: 0;
+      right: 0;
+      width: 112px;
+      height: 112px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    @media (max-width: 576px) {
+      .cv-page-with-avatar .post-header {
+        min-height: 84px;
+        padding-right: 94px;
+      }
+
+      .cv-page-avatar {
+        width: 76px;
+        height: 76px;
+      }
+    }
+  </style>
+
+  <div class="cv-page-with-avatar">
+    <img
+      class="cv-page-avatar"
+      src="{{ '/assets/img/bilibili-avatar.jpg' | relative_url }}"
+      alt="Qirui Chen"
+      width="112"
+      height="112"
+    >
+    {% al_folio_cv_render %}
+  </div>
+{% else %}
+  <div class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-description">CV rendering is unavailable.</p>
+    </header>
+    <article>
+      <p>Enable the <code>al_folio_cv</code> plugin and set <code>al_folio.features.cv.enabled: true</code> to render this page.</p>
+    </article>
+  </div>
+{% endif %}
