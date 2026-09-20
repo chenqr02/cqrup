@@ -40,3 +40,54 @@ This homepage keeps the standard academic sections, but the active publication r
 - **Open question:** how much of a trip can be documented before it becomes a longitudinal study? The current Yunnan record is 7 hours, 38 minutes, and 33 seconds.
 
 See my [GitHub](https://github.com/chenqr02) and [Bilibili profile](https://space.bilibili.com/511528679). For the content timeline, see [Creator Path]({{ '/creator-path/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).
+
+<style>
+  .social .contact-icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+  }
+
+  .social .contact-icons > a {
+    display: inline-flex;
+    width: 5rem;
+    height: 5rem;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .social .contact-icons > a img,
+  .social .contact-icons > a svg {
+    width: 5rem;
+    height: 5rem;
+    margin: 0;
+  }
+
+  .social .contact-icons > a svg image {
+    width: 5rem;
+    height: 5rem;
+  }
+
+  .social .contact-icons > a i {
+    line-height: 1;
+  }
+
+  .social .contact-note {
+    text-align: center;
+  }
+
+  @media (max-width: 576px) {
+    .social .contact-icons {
+      gap: 1.5rem;
+    }
+
+    .social .contact-icons > a,
+    .social .contact-icons > a img,
+    .social .contact-icons > a svg,
+    .social .contact-icons > a svg image {
+      width: 4.25rem;
+      height: 4.25rem;
+    }
+  }
+</style>

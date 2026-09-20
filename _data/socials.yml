@@ -1,6 +1,6 @@
 # Social and academic links shown on the homepage.
 github_username: chenqr02
-rss_icon: true
+rss_icon: false
 custom_social:
   logo: /assets/img/video.svg
   title: Bilibili
