@@ -1,0 +1,57 @@
+{
+  "basics": {
+    "name": "Qirui Chen",
+    "label": "Ph.D. student",
+    "url": "https://chenqr02.github.io/cqrup/",
+    "summary": "Ph.D. student at the University of Science and Technology of China; creator of the Bilibili channel 低级攻城师.",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "chenqr02",
+        "url": "https://github.com/chenqr02"
+      },
+      {
+        "network": "Bilibili",
+        "username": "低级攻城师",
+        "url": "https://space.bilibili.com/511528679"
+      },
+      {
+        "network": "OpenReview",
+        "username": "Qirui Chen",
+        "url": "https://openreview.net/profile?id=~Qirui_Chen2"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Science and Technology of China",
+      "area": "Ph.D. student",
+      "studyType": "Ph.D.",
+      "startDate": "2026"
+    },
+    {
+      "institution": "University of Science and Technology of China",
+      "area": "Master's student",
+      "studyType": "M.S.",
+      "startDate": "2024",
+      "endDate": "2026"
+    },
+    {
+      "institution": "Hefei University of Technology",
+      "area": "Undergraduate student",
+      "studyType": "Bachelor's study",
+      "startDate": "2020",
+      "endDate": "2024"
+    }
+  ],
+  "publications": [],
+  "work": [],
+  "projects": [],
+  "volunteer": [],
+  "awards": [],
+  "certificates": [],
+  "skills": [],
+  "languages": [],
+  "interests": [],
+  "references": []
+}

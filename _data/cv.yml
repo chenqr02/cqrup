@@ -1,0 +1,36 @@
+cv:
+  name: Qirui Chen
+  label: Ph.D. Student
+  location: China
+  image: ""
+  summary: >
+    Ph.D. student at the University of Science and Technology of China. Public profile lists prior M.S. study at USTC and undergraduate study at Hefei University of Technology. Also maintains a public Bilibili archive of travel, food, campus life, events, and gaming records.
+
+  social_networks:
+    - network: GitHub
+      username: chenqr02
+
+  sections:
+    Education:
+      - institution: University of Science and Technology of China
+        area: Ph.D. student
+        studyType: Ph.D.
+        start_date: 2026
+
+      - institution: University of Science and Technology of China
+        area: Master's student
+        studyType: M.S.
+        start_date: 2024
+        end_date: 2026
+
+      - institution: Hefei University of Technology
+        area: Undergraduate student
+        studyType: Bachelor's study
+        start_date: 2020
+        end_date: 2024
+
+    Creator Portfolio:
+      - name: Bilibili channel: 低级攻城师
+        date: 2026-09-20
+        url: https://space.bilibili.com/511528679
+        summary: Public snapshot: 58 videos, one article, 84 followers, and a 17-entry “生活流水账” series.

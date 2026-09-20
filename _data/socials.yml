@@ -1,0 +1,7 @@
+# Social and academic profiles shown on the homepage.
+github_username: chenqr02
+rss_icon: true
+custom_social:
+  logo: /cqrup/assets/img/video.svg
+  title: Bilibili
+  url: https://space.bilibili.com/511528679
