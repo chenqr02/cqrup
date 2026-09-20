@@ -57,6 +57,10 @@ See my [GitHub](https://github.com/chenqr02) and [Bilibili profile](https://spac
     justify-content: center;
   }
 
+  .social .contact-icons > a[href$="feed.xml"] {
+    display: none;
+  }
+
   .social .contact-icons > a img,
   .social .contact-icons > a svg {
     width: 5rem;
