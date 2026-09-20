@@ -7,13 +7,13 @@ first_name: Qirui
 middle_name:
 last_name: Chen
 contact_note: >
-  Creator updates and field notes live on Bilibili.
+  I post creator updates and field notes on Bilibili.
 description: >
-  Qirui Chen is a Ph.D. student at the University of Science and Technology of China. This academic-style homepage documents the parallel publication record of the Bilibili channel 低级攻城师.
+  I am a Ph.D. student at the University of Science and Technology of China. On this academic-style homepage, I document my parallel publication record on Bilibili as 低级攻城师.
 footer_text: >
-  Built with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Bilibili metrics are dated snapshots; research publications are listed separately.
+  I built this site with <a href="https://github.com/alshedivat/al-folio">al-folio</a> and <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.
+  I host it on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  I report Bilibili metrics as dated snapshots and list my research publications separately.
 keywords: academic-website, Bilibili, creator, Qirui Chen
 lang: en
 icon: bilibili-avatar-icon.png
@@ -137,7 +137,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 生活流水账
-blog_description: Field notes from food, travel, campus life, and whatever happened this week.
+blog_description: My field notes on food, travel, campus life, and whatever happened this week.
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 

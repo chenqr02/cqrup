@@ -4,7 +4,7 @@ cv:
   location: China
   photo: ../assets/img/bilibili-avatar.jpg
   summary: >
-    Ph.D. student at the University of Science and Technology of China, with prior M.S. study at USTC and undergraduate study at Hefei University of Technology. Also maintains a Bilibili channel featuring travel, food, campus life, events, and gaming records.
+    I am a Ph.D. student at the University of Science and Technology of China. I previously completed M.S. study at USTC and undergraduate study at Hefei University of Technology. I also publish travel, food, campus life, events, and gaming videos on Bilibili.
 
   social_networks:
     - network: GitHub
@@ -33,4 +33,4 @@ cv:
       - name: "Bilibili channel: 低级攻城师"
         date: 2026-09-20
         url: https://space.bilibili.com/511528679
-        summary: 58 videos, one article, 84 followers, and a 17-entry 生活流水账 series (2026-09-20 snapshot).
+        summary: I had posted 58 videos and one article, had 84 followers, and maintained a 17-entry 生活流水账 series (2026-09-20 snapshot).

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Long-form field report:** [202602 云南旅行全程记录](https://www.bilibili.com/video/BV1aEAUzLEn7/) runs 7:38:33. The methods section contains a detailed itinerary in moving-image form.
+**My long-form field report:** [202602 云南旅行全程记录](https://www.bilibili.com/video/BV1aEAUzLEn7/) runs 7:38:33. I packed the detailed itinerary into moving images.

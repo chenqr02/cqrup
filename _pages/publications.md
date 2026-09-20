@@ -2,14 +2,14 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: Academic papers and the parallel Bilibili publication record.
+description: My academic papers and parallel Bilibili publication record.
 nav: true
 nav_order: 2
 ---
 
 ## Academic publications
 
-No academic papers are listed here yet. Until the first one arrives, the parallel publication record is on Bilibili.
+I haven't listed an academic paper yet. Until my first one arrives, my parallel publication record lives on Bilibili.
 
 {% include bib_search.liquid %}
 
@@ -21,7 +21,7 @@ No academic papers are listed here yet. Until the first one arrives, the paralle
 
 ## Parallel publication record: Bilibili
 
-These works were published on Bilibili, not in conference proceedings. Their review process consists of viewers, comments, and the platform's recommendation system. This archive lists all **58 videos** shown in the channel's video tab as of **2026-09-20**.
+I publish these works on Bilibili rather than in conference proceedings. My reviewers are viewers, commenters, and the platform's recommendation system. I list all **58 videos** shown in my channel's video tab as of **2026-09-20**.
 
 | Released | Media publication |
 | --- | --- |
@@ -84,4 +84,4 @@ These works were published on Bilibili, not in conference proceedings. Their rev
 | 2025-10-18 | [\[超级市场\] 恐怖的房子 2025/10/17 南京 1701 Max](https://www.bilibili.com/video/BV1cBWHzgE8h/) |
 | 2025-05-10 | [\[Joyside\] Miumiu上台为乐队献花 2025/05/10 南京](https://www.bilibili.com/video/BV1fNVZzGEmx/) |
 
-View counts change over time; no citation metric is claimed for these works.
+My view counts change over time; I make no citation-metric claims for these works.

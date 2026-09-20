@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Channel snapshot.** The channel has 58 videos, one article, two series, and 84 followers. The “生活流水账” series has 17 entries. [View the channel](https://space.bilibili.com/511528679).
+**My channel snapshot.** As of 2026-09-20, I had posted 58 videos and one article, created two series, and gathered 84 followers. My “生活流水账” series has 17 entries. [Visit my channel](https://space.bilibili.com/511528679).
