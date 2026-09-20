@@ -26,16 +26,16 @@ latest_posts:
   limit: 3
 ---
 
-I am **Qirui Chen**, a Ph.D. student at the **University of Science and Technology of China (USTC)**. My public academic profile records an M.S. at USTC from 2024 to 2026 and undergraduate study at Hefei University of Technology from 2020 to 2024.
+I am **Qirui Chen**, a Ph.D. student at the **University of Science and Technology of China (USTC)**. My education includes an M.S. at USTC from 2024 to 2026 and undergraduate study at Hefei University of Technology from 2020 to 2024.
 
-Outside the degree program, I publish under **低级攻城师** on Bilibili. The channel bio reads “智力低下.” Its public profile showed 58 videos, one article, a 17-entry “生活流水账” series, and 84 followers on 2026-09-20. The audience count is reported as a platform metric, not as a statistically significant sample.
+Outside the degree program, I publish under **低级攻城师** on Bilibili. The channel bio reads “智力低下.” On 2026-09-20, it showed 58 videos, one article, a 17-entry “生活流水账” series, and 84 followers. The audience count is reported as a platform metric, not as a statistically significant sample.
 
-The linked OpenReview profile currently lists no publications, co-authors, or areas of expertise. This homepage keeps the standard academic sections and lets the media record speak for itself.
+This homepage keeps the standard academic sections, but the active publication record is mostly video: travel logs, tastings, music, campus events, and occasional gaming streams.
 
 ### Research interests
 
-- **OpenReview:** no areas of expertise listed at the time of the profile snapshot.
-- **Fieldwork:** food reviews, travel logs, campus life, music events, and occasional gaming streams.
+- **Field sites:** everyday life, food, travel, and events.
+- **Methods:** recording first, editing later, and treating video duration as a measure of commitment rather than quality.
 - **Open question:** how much of a trip can be documented before it becomes a longitudinal study? The current Yunnan record is 7 hours, 38 minutes, and 33 seconds.
 
-See my [OpenReview profile](https://openreview.net/profile?id=~Qirui_Chen2), [GitHub](https://github.com/chenqr02), and [Bilibili profile](https://space.bilibili.com/511528679). For the content timeline, see [Creator Path]({{ '/creator-path/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).
+See my [GitHub](https://github.com/chenqr02) and [Bilibili profile](https://space.bilibili.com/511528679). For the content timeline, see [Creator Path]({{ '/creator-path/' | relative_url }}) and [Publications]({{ '/publications/' | relative_url }}).

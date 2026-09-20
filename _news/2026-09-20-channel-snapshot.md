@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**Channel snapshot.** The public profile lists 58 videos, one article, two series, and 84 followers. The “生活流水账” series has 17 entries. [View the channel](https://space.bilibili.com/511528679).
+**Channel snapshot.** The channel has 58 videos, one article, two series, and 84 followers. The “生活流水账” series has 17 entries. [View the channel](https://space.bilibili.com/511528679).

@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Academic publications
 
-The linked OpenReview profile currently lists **no publications**. For the current profile record, see [OpenReview](https://openreview.net/profile?id=~Qirui_Chen2).
+No academic papers are listed here yet. Until the first one arrives, the parallel publication record is on Bilibili.
 
 {% include bib_search.liquid %}
 
@@ -21,7 +21,7 @@ The linked OpenReview profile currently lists **no publications**. For the curre
 
 ## Parallel publication record: Bilibili
 
-These works were published on Bilibili, not in conference proceedings. Their review process consists of viewers, comments, and the platform's recommendation system. Counts below are a public-profile snapshot from **2026-09-20**.
+These works were published on Bilibili, not in conference proceedings. Their review process consists of viewers, comments, and the platform's recommendation system. Counts below are a channel snapshot from **2026-09-20**.
 
 | Released | Media publication | Runtime | Impact (plays) |
 | --- | --- | ---: | ---: |
