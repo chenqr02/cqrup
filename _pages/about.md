@@ -27,7 +27,7 @@ latest_posts:
   limit: 3
 ---
 
-I am **Qirui Chen**, a Ph.D. student at the **University of Science and Technology of China (USTC)**. My education includes an M.S. at USTC from 2024 to 2026 and undergraduate study at Hefei University of Technology from 2020 to 2024.
+I'm **Qirui Chen**, a Ph.D. student at the **University of Science and Technology of China (USTC)**. I earned my M.S. there in 2026, after completing my bachelor's degree at Hefei University of Technology in 2024.
 
 Outside my degree program, I publish as **低级攻城师** on Bilibili. My channel bio says “智力低下.” On 2026-09-20, I had posted 58 videos and one article, built a 17-entry “生活流水账” series, and gathered 84 followers. I report the follower count as a platform metric, not as a statistically significant sample.
 
